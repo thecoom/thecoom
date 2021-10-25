@@ -17,11 +17,11 @@ links:
 - text: Discord Server
   link: https://discord.gg/zVgBqdyNyJ
 
-- text: Discussions
-  link: https://retype.com/guides/getting-started/
+- text: Issues
+  link: https://github.com/thecoom/thecoom.github.io/issues
 
 - text: Discussions
-  link: https://retype.com/guides/getting-started/
+  link: https://github.com/thecoom/thecoom.github.io/discussions/
 
 footer:
   copyright: "&copy; Copyright {{ year }}. [The Coom](https://thecoom.xyz). All rights reserved."
