@@ -1,0 +1,27 @@
+input: .
+output: .retype
+
+url: thecoom.xyz
+
+branding:
+  title: The Coom
+  label: Docs
+
+edit:
+  repo: github.com/retypeapp/retype
+
+links:
+- text: Home
+  link: https://thecoom.xyz
+
+- text: Discord Server
+  link: https://discord.gg/zVgBqdyNyJ
+
+- text: Discussions
+  link: https://retype.com/guides/getting-started/
+
+- text: Discussions
+  link: https://retype.com/guides/getting-started/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. [The Coom](https://thecoom.xyz). All rights reserved."
